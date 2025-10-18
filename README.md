@@ -20,5 +20,6 @@ Each file contains the following columns:
 The Jupyter Notebook guides you through the following workflow:
 
 1. Data Acquisition
+   
    Download and load the NHANES CSV files as NumPy matrices.
-2. 
+3. 
