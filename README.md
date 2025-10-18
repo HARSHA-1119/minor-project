@@ -66,4 +66,5 @@ The Jupyter Notebook guides you through the following workflow:
 6. Jupyter Notebook
 
 Install dependencies using:
-	pip install numpy matplotlib seaborn pandas
+
+pip install numpy matplotlib seaborn pandas.
