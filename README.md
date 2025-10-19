@@ -1,4 +1,14 @@
 # Comprehensive-Analysis-of-NHANES-Body-Measurements
+# Overview
+This repository contains a capstone project that analyzes body measurements of adult males and females based on excerpts from the National Health and Nutrition Examination Survey (NHANES) dataset. The analysis is performed using Python with a focus on NumPy and data visualization libraries such as Matplotlib and Seaborn. The entire workflow is contained within a single, well-structured Jupyter Notebook.
+
+# Objectives Of the project
+1. Import and process multidimensional data using NumPy matrices.
+2. Visualize and compare weight distributions between adult males and females.
+3. Compute and interpret key statistical aggregates and correlation coefficients.
+4. Standardize and analyze body measurement data, including BMI, waist-to-height, and waist-to-hip ratios.
+5. Document findings and interpretations in a clear, formal report style.
+
 # Dataset
 The analysis uses two CSV files, which are excerpts from the NHANES dataset:
 
