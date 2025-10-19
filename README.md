@@ -68,17 +68,18 @@ The Jupyter Notebook guides you through the following workflow:
 3. Run the notebook cells sequentially to reproduce the analysis and visualizations.
 
 # Requirements
-1. Python 3.x
-2. NumPy
-3. Matplotlib
-4. Seaborn
-5. pandas (for convenience in some sections)
-6. Jupyter Notebook
+- Python 3.x
+- NumPy
+- Matplotlib
+- Seaborn
+- pandas (for convenience in some sections)
+- Jupyter Notebook
 
 Install dependencies using:
-   
+
+---bash
 pip install numpy matplotlib seaborn pandas.
-   
+---
 
 #
 **For questions or suggestions, please open an issue or contact the repository owner.**
