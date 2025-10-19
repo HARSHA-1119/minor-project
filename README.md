@@ -77,9 +77,10 @@ The Jupyter Notebook guides you through the following workflow:
 
 Install dependencies using:
 
----bash
-pip install numpy matplotlib seaborn pandas.
----
+```bash
+pip install numpy matplotlib seaborn pandas
+```
+
 
 
 ---
