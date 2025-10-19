@@ -18,13 +18,13 @@ The analysis uses two CSV files, which are excerpts from the NHANES dataset:
 These files can be downloaded from the teaching-data repository.
 Each file contains the following columns:
 
-1. Weight (kg)
-2. Standing Height (cm)
-3. Upper Arm Length (cm)
-4. Upper Leg Length (cm)
-5. Arm Circumference (cm)
-6. Hip Circumference (cm)
-7. Waist Circumference (cm)
+- Weight (kg)
+- Standing Height (cm)
+- Upper Arm Length (cm)
+- Upper Leg Length (cm)
+- Arm Circumference (cm)
+- Hip Circumference (cm)
+- Waist Circumference (cm)
 
 # Notebook Contents
 The Jupyter Notebook guides you through the following workflow:
